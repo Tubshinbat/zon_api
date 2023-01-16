@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "63ab35fa6aba3b224046b528"
+  },
+  "status": true,
+  "name": "Зөвлөх үйлчилгээний зар",
+  "details": "<p style=\"text-align: center;\">Зөвлөх үйлчилгээний зар</p>",
+  "pictures": [
+    "1672164851715_h66t5pnyamka_barilgiin hugjil_1_4_1_8_0327.jpg"
+  ],
+  "views": 0,
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672164858503"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672164858503"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab361c6aba3b224046b53e"
+  },
+  "status": true,
+  "name": "Засварын ажлын зар",
+  "details": "<p style=\"text-align: center;\">Барилгын хөгжлийн төвийн 205, 209, 211,&nbsp;212 тоот өрөөний засвар хийлгэх тул оролцох иргэн, хуулийн этгээд үнийн саналаа 2018 оны 4 дүгээр сарын 3-ны дотор ирүүлнэ үү?</p>\r\n<p style=\"text-align: center;\">Холбоо барих утас: 320745</p>",
+  "pictures": [
+    "1672164890840_75rhho1427417843_2.jpg"
+  ],
+  "views": 81,
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672164892372"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672164892372"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab38db6aba3b224046ba14"
+  },
+  "status": true,
+  "name": "Зөвлөх үйлчилгээний зарлал",
+  "details": "<p>&nbsp;&ldquo;Барилга, байгууламжийн норм нормативын сан&rdquo;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; гийн &nbsp;2018 оны хөрөнгөөр &ldquo;Гадна шилэн хана нэр томьёо&rdquo;<strong>&nbsp;</strong>стандартыг гүйцэтгэх зөвлөхийг сонгон шалгаруулах тендерт оролцохыг урьж байна.</p>\r\n<p>Сонгон шалгаруулалтад оролцох хүсэлтэй хуулийн этгээд, зөвлөх нь хавсралтын дагуу техникийн санал болон санхүүгийн саналаа&nbsp; 2018 оны 05 дугаар сарын&nbsp; 10-ний өдрийн 10:00&nbsp; цагийн&nbsp; дотор Норм нормативын хэлтэс, 211 тоот өрөөнд ирүүлнэ үү.</p>\r\n<p>Зөвлөх үйлчилгээний талаарх мэдээллийг тус төвийн Норм, нормативын хэлтсээс /Холбогдох утас 320745/ лавлана уу.</p>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align: center;\"><iframe class=\"cdc-doc-iframe\" style=\"width: 792px; height: 396px;\" src=\"https://docs.google.com/a/labnol.org/viewer?url=http://103.48.116.227/resources/images/3duc35TBB2.pdf?pid=explorer&amp;efh=false&amp;a=v&amp;chrome=false&amp;embedded=true\" width=\"792\" height=\"396\" data-ng-src=\"https://docs.google.com/a/labnol.org/viewer?url=http://103.48.116.227/resources/images/3duc35TBB2.pdf?pid=explorer&amp;efh=false&amp;a=v&amp;chrome=false&amp;embedded=true\"></iframe></p>",
+  "pictures": [],
+  "views": 80,
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672165595768"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672165595768"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab3ffa6aba3b224046bdf1"
+  },
+  "status": true,
+  "name": "Сургалтын зар",
+  "details": "<p>Барилгын хөгжлийн төвөөс зохион байгуулж байгаа&nbsp;инженер техникийн ажилтнуудад зориулсан&nbsp;<strong>&ldquo;</strong><strong>Барилгын төсөлд хөдөлмөрийн аюулгүй байдал, эрүүл ахуйн үйл ажиллагааг зохион байгуулах заавар</strong><strong>&rdquo; /</strong><strong>УББ 12-205-18/</strong>,&nbsp;<strong>&ldquo;</strong><strong>Барилгын ажлын чанарыг ажилбараар шалгах заавар</strong><strong>&rdquo; /</strong><strong>БНбД 12-108-18/</strong>&nbsp;барилгын дүрмийг танилцуулах, мэдээлэл хүргэх сургалтыг 2018.05.30-ны өдөр зохион байгуулах тул Та бүхэн өргөнөөр оролцоно уу.</p>\r\n<p><strong>Сургалт болох байршил:</strong></p>\r\n<p>Барилгын хөгжлийн төвийн 5 давхарт &ldquo;БАРИЛГАЧИН&rdquo; танхимд</p>\r\n<p><strong>Бүртгэл:</strong></p>\r\n<p>2018.05.29-ны 17:30&nbsp;цаг хүртэл Барилгын хөгжлийн төвийн Норм, нормативын хэлтсийн 11-320745 тоот утсаар холбогдож бүртгүүлнэ үү.</p>\r\n<p><strong>Жич</strong>: Тараах материал, өдрийн хоолтой.</p>\r\n<p><strong>Шаардлагатай мэдээллийг</strong><strong>:</strong>&nbsp;&nbsp;&nbsp;</p>\r\n<p>Норм, нормативын хэлтсийн&nbsp;<strong>11-320745</strong>&nbsp;утаснаас лавлана уу.</p>\r\n<p style=\"text-align: center;\"><strong>ТӨЛБӨРГҮЙ</strong></p>\r\n<p style=\"text-align: center;\"><strong>/Хүний тоо хязгаартай/</strong></p>\r\n<p style=\"text-align: justify;\">&nbsp;</p>\r\n<p style=\"text-align: center;\"><iframe class=\"cdc-doc-iframe\" style=\"width: 654px; height: 327px;\" src=\"https://docs.google.com/a/labnol.org/viewer?url=http://103.48.116.227/resources/images/aa2jj4Batlagdsan hutulbur 2018-05-11.pdf?pid=explorer&amp;efh=false&amp;a=v&amp;chrome=false&amp;embedded=true\" width=\"654\" height=\"327\" data-ng-src=\"https://docs.google.com/a/labnol.org/viewer?url=http://103.48.116.227/resources/images/aa2jj4Batlagdsan hutulbur 2018-05-11.pdf?pid=explorer&amp;efh=false&amp;a=v&amp;chrome=false&amp;embedded=true\"></iframe></p>",
+  "pictures": [],
+  "views": 304,
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672167418874"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672167418874"
+    }
+  },
+  "__v": 0
+}]

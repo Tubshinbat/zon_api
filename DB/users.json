@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "status": true,
+  "position": "Teacher",
+  "role": "admin",
+  "lastname": "Bayandelger",
+  "username": "Tuvshinbat",
+  "email": "tuvshinbat596@gmail.com",
+  "phone": 88011197,
+  "image": null,
+  "gender": "male",
+  "age": 0,
+  "password": "$2b$10$MSzypPM5x/gAH6Qz764ikuLPRg5083BGHAzlJ.sieO4DHRQVGV/Nq",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "entryData": {
+    "$date": {
+      "$numberLong": "1666865132106"
+    }
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670429998704"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1666865132106"
+    }
+  },
+  "__v": 0,
+  "firstname": "Tuvshinbat",
+  "entryDate": {
+    "$date": {
+      "$numberLong": "1670429998702"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6390bd9109c18e682ba42bae"
+  },
+  "status": true,
+  "position": "drn.chogia@gmail.com",
+  "role": "user",
+  "lastname": "Bayandelger",
+  "firstname": "Tuvshinbat",
+  "email": "tuvshinbat51926@gmail.com",
+  "phone": 88914141,
+  "image": null,
+  "gender": "male",
+  "age": 0,
+  "password": "$2b$10$H81lCSJGMDC0CulLHRJhCOSyqyV1exYgnsUjs/j5QnqxG6uoAFqGS",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670430097000"
+    }
+  },
+  "entryDate": {
+    "$date": {
+      "$numberLong": "1670430097218"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670430115199"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  }
+},{
+  "_id": {
+    "$oid": "63c2aff1a84d43dad3d6b7d8"
+  },
+  "status": true,
+  "position": "tsomo0814@gmail.com",
+  "role": "operator",
+  "lastname": "asfasf",
+  "firstname": "sfasfas",
+  "email": "tuvshisssnbat596@gmail.com",
+  "phone": {
+    "$numberLong": "8854011197"
+  },
+  "image": null,
+  "gender": "female",
+  "age": 0,
+  "password": "$2b$10$vWYXhs86KVmZ24KIBC8hn.JjuyMWgfMliFRw6MyM9iTI/EN89c.3m",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673703409000"
+    }
+  },
+  "entryDate": {
+    "$date": {
+      "$numberLong": "1673703409412"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673703409412"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "6390c31c09c18e682ba42be3"
+  },
+  "logo": "1670431477690_blogo.png",
+  "whiteLogo": "1670431480487_whlogo.png",
+  "name": "Barilga.gov.mn",
+  "address": "Улаанбаатар 210644, Чингэлтэй дүүрэг, Их тойруу-1, Баруун 4 зам, Барилгын хөгжлийн төв",
+  "siteInfo": "1926 он: Ардын засгийн газрын хурлын 40 дүгээр тогтоолоор “Барилгын хэлтэс” байгуулж, барилга барих, барилгын материал үйлдвэрлэх, зураг төсөл зохиох ажлыг эхлүүлсэн байна.",
+  "policy": "<p>undefined</p>",
+  "phone": 70122244,
+  "email": "info@barilga.gov.mn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395fbc4f69ff82d7077b325"
+  },
+  "logo": "1670773694813_logo.png",
+  "whiteLogo": "1670773699208_whitelogo.png",
+  "name": "Barilga.gov.mn",
+  "address": "undefined",
+  "siteInfo": "undefined",
+  "policy": "<p>undefined</p>",
+  "phone": 77118811,
+  "email": "info@barilga.gov.mn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a214607c3c7aa53e9a4dee"
+  },
+  "logo": "1670431477690_blogo.png",
+  "whiteLogo": "1670431480487_whlogo.png",
+  "name": "Barilga.gov.mn",
+  "address": "undefined",
+  "siteInfo": "Ардын засгийн газрын хурлын 40 дүгээр тогтоолоор “Барилгын хэлтэс” байгуулж, барилга барих, барилгын материал үйлдвэрлэх, зураг төсөл зохиох ажлыг эхлүүлсэн байна.",
+  "policy": "<p>undefined</p>",
+  "phone": 77118811,
+  "email": "info@barilga.gov.mn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a214697c3c7aa53e9a4df0"
+  },
+  "logo": "1670431477690_blogo.png",
+  "whiteLogo": "1670431480487_whlogo.png",
+  "name": "Barilga.gov.mn",
+  "address": " Улаанбаатар 210644, Чингэлтэй дүүрэг, Их тойруу-1, Баруун 4 зам, Барилгын хөгжлийн төв",
+  "siteInfo": "Ардын засгийн газрын хурлын 40 дүгээр тогтоолоор “Барилгын хэлтэс” байгуулж, барилга барих, барилгын материал үйлдвэрлэх, зураг төсөл зохиох ажлыг эхлүүлсэн байна.",
+  "policy": "<p>undefined</p>",
+  "phone": 77118811,
+  "email": "info@barilga.gov.mn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a214707c3c7aa53e9a4df2"
+  },
+  "logo": "1670431477690_blogo.png",
+  "whiteLogo": "1670431480487_whlogo.png",
+  "name": "Barilga.gov.mn",
+  "address": " Улаанбаатар 210644, Чингэлтэй дүүрэг, Их тойруу-1, Баруун 4 зам, Барилгын хөгжлийн төв",
+  "siteInfo": "Ардын засгийн газрын хурлын 40 дүгээр тогтоолоор “Барилгын хэлтэс” байгуулж, барилга барих, барилгын материал үйлдвэрлэх, зураг төсөл зохиох ажлыг эхлүүлсэн байна.",
+  "policy": "<p>undefined</p>",
+  "phone": 70122244,
+  "email": "info@barilga.gov.mn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a214f77c3c7aa53e9a4ea5"
+  },
+  "logo": "1670431477690_blogo.png",
+  "whiteLogo": "1670431480487_whlogo.png",
+  "name": "Barilga.gov.mn",
+  "address": "undefined",
+  "siteInfo": "undefined",
+  "policy": "<p>undefined</p>",
+  "phone": 70122244,
+  "email": "info@barilga.gov.mn",
+  "__v": 0
+}]

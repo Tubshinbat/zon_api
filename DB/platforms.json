@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "639763d35060420c7a87837a"
+  },
+  "status": true,
+  "isDirect": true,
+  "name": "ЗУРАГ ТӨСӨЛ",
+  "direct": "http://203.98.76.25:888/",
+  "details": "<p>ЗУРАГ ТӨСӨЛ</p>",
+  "icon": "1670865874569_durs.png",
+  "picture": "1670865800545_services.jpg",
+  "views": 0,
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670865875625"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670865875625"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63976e215060420c7a878f94"
+  },
+  "status": true,
+  "isDirect": false,
+  "name": "ЗАХИАЛАГЧИЙН ХЯНАЛТ",
+  "direct": "undefined",
+  "details": "<p>Захиалагчийн хяналт хэрэгжүүлэх мэдээллийн бааз v1.8</p>",
+  "icon": "1670868498230_tablet.png",
+  "picture": "1670868540892_service-3.jpg",
+  "views": 0,
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670868513819"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670868542187"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  }
+},{
+  "_id": {
+    "$oid": "63976f4c5060420c7a87912e"
+  },
+  "status": true,
+  "isDirect": false,
+  "name": "НОРМ, НОРМАТИВ",
+  "direct": "undefined",
+  "details": "<p>НОРМ, НОРМАТИВ</p>",
+  "icon": "1670868793394_brick.png",
+  "picture": "1670868771713_nirn.jpg",
+  "views": 0,
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670868812727"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670868812728"
+    }
+  },
+  "__v": 0
+}]

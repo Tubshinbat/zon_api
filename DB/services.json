@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "639790895060420c7a87dcd9"
+  },
+  "status": true,
+  "direct": "false",
+  "name": "Зураг төсөл, магадлал",
+  "details": "<p>ЗУРАГ ТӨСӨЛ, МАГАДЛАЛ</p>",
+  "pictures": [
+    "1670877320788_service-1.png"
+  ],
+  "views": 0,
+  "link": "undefined",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670877321835"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670877321835"
+    }
+  },
+  "slug": "zurag-tosol-magadlal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639793c65060420c7a87e83e"
+  },
+  "status": true,
+  "direct": "false",
+  "name": "Захиалагчийн Хяналт",
+  "details": "<p>Захиалагчийн<br />Хяналт</p>",
+  "pictures": [
+    "1670878149143_service-2.jpg"
+  ],
+  "views": 0,
+  "link": "undefined",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670878150298"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670878150298"
+    }
+  },
+  "slug": "zahialagchiyn-hyanalt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639794825060420c7a87ea5f"
+  },
+  "status": true,
+  "direct": "true",
+  "name": "Сургалт",
+  "details": "<p>Сургалт</p>",
+  "pictures": [
+    "1670878336855_service-4.jpg"
+  ],
+  "views": 0,
+  "link": "http://localhost:3001/services/edit/639794825060420c7a87ea5f",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670878338527"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670878338527"
+    }
+  },
+  "slug": "surgalt",
+  "__v": 0,
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  }
+}]

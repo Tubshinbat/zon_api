@@ -1,0 +1,343 @@
+[{
+  "_id": {
+    "$oid": "63b3ad8e13cded4fcf5871ea"
+  },
+  "name": "Хучилтын нүхтэй хавтан",
+  "picture": "1672719754746_crane.png",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672719758394"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672719758394"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3ae0013cded4fcf5871ef"
+  },
+  "name": "Зоорийн ханын гулдмай",
+  "picture": "1672719869579_bricks.png",
+  "position": 1,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672719872223"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672719872223"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3ae2813cded4fcf5871f5"
+  },
+  "name": "Ялуу",
+  "picture": "1672719911522_construction.png",
+  "position": 2,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672719912597"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672719912597"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3ae6013cded4fcf5871fd"
+  },
+  "name": "Бетон, бетон бүтээгдэхүүн",
+  "picture": "1672719967239_concrete-mixer.png",
+  "position": 3,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672719968526"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672719968526"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3ae7313cded4fcf587202"
+  },
+  "name": "Барьцалдуулагч материал",
+  "picture": "1672719986176_brickwall.png",
+  "position": 4,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672719987438"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672719987438"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3aef313cded4fcf587207"
+  },
+  "name": "Төмөр бүтээц эдлэл",
+  "picture": "1672720110028_hook.png",
+  "position": 5,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672720115292"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672720115292"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b09013cded4fcf58720c"
+  },
+  "name": "Дүүргэлтийн материал",
+  "picture": "1672720527597_cement (1).png",
+  "position": 6,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672720528885"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672720528885"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b0af13cded4fcf587211"
+  },
+  "name": "Дүүргэгч материал",
+  "picture": "1672720558319_cement (1).png",
+  "position": 7,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672720559431"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672720559431"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b0e113cded4fcf587216"
+  },
+  "name": "Дулаалгын материал",
+  "picture": "1672720606828_build.png",
+  "position": 8,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672720609481"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672720609481"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b12713cded4fcf58721b"
+  },
+  "name": "Дээврийн материал",
+  "picture": "1672720678279_roof.png",
+  "position": 9,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672720679307"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672720679308"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b17513cded4fcf587220"
+  },
+  "name": "Хуванцар цонх, хаалга",
+  "picture": "1672720744935_window.png",
+  "position": 10,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672720757913"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672720757913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b1b813cded4fcf587225"
+  },
+  "name": "Хуурай хольц",
+  "picture": "1672720817603_blend.png",
+  "position": 11,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672720824539"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672720824539"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b1e313cded4fcf58722a"
+  },
+  "name": "Металл хийц эдлэл",
+  "picture": "1672720866958_beam.png",
+  "position": 12,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672720867894"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672720867894"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b20413cded4fcf58722f"
+  },
+  "name": "Модон материал",
+  "picture": "1672720899496_wood.png",
+  "position": 13,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672720900568"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672720900568"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b23113cded4fcf587234"
+  },
+  "name": "Шалны материал",
+  "picture": "1672720944220_floor.png",
+  "position": 14,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672720945327"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672720945327"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b27313cded4fcf587239"
+  },
+  "name": "Бохир усны хуванцар хоолой /Гадна шугам/",
+  "picture": "1672721007108_pipe.png",
+  "position": 15,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672721011901"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672721011901"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b2df13cded4fcf587244"
+  },
+  "name": "Цэвэр усны ган хоолой /Гадна шугам/",
+  "picture": "1672721118386_pipe (1).png",
+  "position": 16,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672721119615"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672721119615"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b30613cded4fcf587249"
+  },
+  "name": "Хаалт",
+  "picture": "1672721156841_pipe (1).png",
+  "position": 17,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672721158050"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672721158050"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3b31913cded4fcf58724e"
+  },
+  "name": "Фланц",
+  "picture": "1672721175138_pipe (1).png",
+  "position": 18,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672721177074"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672721177074"
+    }
+  },
+  "__v": 0
+}]

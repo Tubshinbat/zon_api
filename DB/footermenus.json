@@ -1,0 +1,265 @@
+[{
+  "_id": {
+    "$oid": "63a212f77c3c7aa53e9a46fd"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Хэлтэсүүд",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1671566071144"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1671566071144"
+    }
+  },
+  "slug": "heregtey-holboos",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a2139d7c3c7aa53e9a4a64"
+  },
+  "status": true,
+  "isDirect": true,
+  "isModel": false,
+  "name": "Барилга байгууламжийн захиалагчийн хяналтын хэлтэс",
+  "direct": "/page/about",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1671566237878"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1671566237878"
+    }
+  },
+  "slug": "tanilcuulga",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bc20d11f5ab3e63fb64ef9"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Барилга байгууламжийн зураг төслийн магадлалын хэлтэс",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 1,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673273553942"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673273553942"
+    }
+  },
+  "slug": "barilga-bayguulamzhiyn-zurag-tosliyn-magadlalyn-heltes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bc21011f5ab3e63fb64f21"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Барилга, барилгын материалын үйлдвэрлэлийн хэлтэс",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 2,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673273601792"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673273601792"
+    }
+  },
+  "slug": "barilga-barilgyn-materialyn-uyldverleliyn-heltes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bc21221f5ab3e63fb64f26"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Барилгын материалын сорилт шинжилгээний лаборатори",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 3,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673273634844"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673273634844"
+    }
+  },
+  "slug": "barilgyn-materialyn-sorilt-shinzhilgeeniy-laboratori",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bc21351f5ab3e63fb64f2b"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Захиргаа, удирдлагын хэлтэс",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 4,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673273653003"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673273653003"
+    }
+  },
+  "slug": "zahirgaa-udirdlagyn-heltes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bc21481f5ab3e63fb64f30"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Нийтийн аж ахуйн хэлтэс",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 5,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673273672678"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673273672678"
+    }
+  },
+  "slug": "niytiyn-azh-ahuyn-heltes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bc21611f5ab3e63fb64f35"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Норм, нормативын хэлтэс",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 6,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673273697417"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673273697417"
+    }
+  },
+  "slug": "norm-normativyn-heltes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bc21781f5ab3e63fb64f3a"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Санхүү, төсөл хөтөлбөрийн хэлтэс",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 7,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673273720271"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673273720272"
+    }
+  },
+  "slug": "sanhuu-tosol-hotolboriyn-heltes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bc21ad1f5ab3e63fb64f61"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Сургалт, судалгаа, мэдээллийн хэлтэс",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 8,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673273773497"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673273773497"
+    }
+  },
+  "slug": "surgalt-sudalgaa-medeelliyn-heltes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bc21c41f5ab3e63fb64f66"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Хот суурин, дэд бүтцийн судалгаа төлөвлөлтийн хэлтэс",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 9,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673273796671"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673273796671"
+    }
+  },
+  "slug": "hot-suurin-ded-butciyn-sudalgaa-tolovloltiyn-heltes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bc21d71f5ab3e63fb64f6b"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Хүн амын нутагшилт, бүс нутгийн судалгаа, төлөвлөлтийн хэлтэс",
+  "parentId": "63a212f77c3c7aa53e9a46fd",
+  "position": 10,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673273815666"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673273815666"
+    }
+  },
+  "slug": "hun-amyn-nutagshilt-bus-nutgiyn-sudalgaa-tolovloltiyn-heltes",
+  "__v": 0
+}]

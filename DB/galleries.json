@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "63a210ed7c3c7aa53e9a3e39"
+  },
+  "status": true,
+  "name": "Зураг-1",
+  "picture": "1671565543144_img-1.jpg",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1671565549257"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1671565549257"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a210fb7c3c7aa53e9a3e57"
+  },
+  "status": true,
+  "name": "Зураг 2",
+  "picture": "1671565562176_img-2.jpg",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1671565563109"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1671565563109"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a2110b7c3c7aa53e9a3e6d"
+  },
+  "status": true,
+  "name": "Зураг 3 ",
+  "picture": "1671565577837_img-3.jpg",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1671565579005"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1671565579005"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a211167c3c7aa53e9a3e83"
+  },
+  "status": true,
+  "name": "Зураг 4",
+  "picture": "1671565589295_img-4.jpg",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1671565590273"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1671565590273"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a211207c3c7aa53e9a3e99"
+  },
+  "status": true,
+  "name": "Зураг 5",
+  "picture": "1671565599998_img-5.jpg",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1671565600760"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1671565600760"
+    }
+  },
+  "__v": 0
+}]

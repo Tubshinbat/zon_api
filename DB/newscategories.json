@@ -1,0 +1,197 @@
+[{
+  "_id": {
+    "$oid": "637e85eb0fa3a7650b745132"
+  },
+  "status": true,
+  "name": "Барилга угсралт",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1669236203546"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1669236203546"
+    }
+  },
+  "slug": "1",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "637e85ee0fa3a7650b745137"
+  },
+  "status": true,
+  "name": "Арга хэмжээ",
+  "position": 1,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1669236206279"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1669236206279"
+    }
+  },
+  "slug": "2",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "637e85ef0fa3a7650b74513c"
+  },
+  "status": true,
+  "name": "Үйл явдал",
+  "position": 2,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1669236207707"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1669236207707"
+    }
+  },
+  "slug": "3",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "637e89cf0fa3a7650b745153"
+  },
+  "status": true,
+  "name": "Ярилцлага",
+  "position": 3,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1669237199026"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1669237199026"
+    }
+  },
+  "slug": "4",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "63ab1a3e6aba3b2240468adf"
+  },
+  "status": true,
+  "name": "Хэлтэсүүдийн мэдээлэл",
+  "position": 4,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672157758173"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672157758173"
+    }
+  },
+  "slug": "heltesuudiyn-medeelel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab1ce26aba3b22404691c8"
+  },
+  "status": true,
+  "name": "Тушаал, тогтоол",
+  "position": 5,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672158434024"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672158434024"
+    }
+  },
+  "slug": "surgalt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab1dd86aba3b2240469397"
+  },
+  "status": true,
+  "name": "Мэдэгдэл",
+  "position": 6,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672158680268"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672158680268"
+    }
+  },
+  "slug": "medeelel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab23f86aba3b2240469e98"
+  },
+  "status": true,
+  "name": "Мягт",
+  "parentId": "63ab1ce26aba3b22404691c8",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672160248239"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672160248239"
+    }
+  },
+  "slug": "myagt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab241d6aba3b2240469e9d"
+  },
+  "status": true,
+  "name": "Бүрдүүлэх материал",
+  "parentId": "63ab1ce26aba3b22404691c8",
+  "position": 1,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672160285888"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672160285888"
+    }
+  },
+  "slug": "burduuleh-material",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2e4b6aba3b224046aa24"
+  },
+  "status": true,
+  "name": "Мэдээлэл",
+  "position": 7,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672162891481"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672162891481"
+    }
+  },
+  "slug": "medeelel",
+  "__v": 0
+}]

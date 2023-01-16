@@ -1,0 +1,185 @@
+[{
+  "_id": {
+    "$oid": "6396022af69ff82d7077b4c2"
+  },
+  "status": true,
+  "isDirect": true,
+  "isModel": false,
+  "name": "Нүүр",
+  "direct": "/",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775338098"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775338098"
+    }
+  },
+  "slug": "nuur",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "63960236f69ff82d7077b4c7"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Бидний тухай",
+  "direct": "/page/about",
+  "position": 1,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775350989"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775350989"
+    }
+  },
+  "slug": "bidniy-tuhay",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "63960245f69ff82d7077b4cc"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "name": "Үйл ажиллагаа",
+  "model": "services",
+  "position": 2,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775365561"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775365561"
+    }
+  },
+  "slug": "uyl-azhillagaa",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "63960253f69ff82d7077b4d1"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "name": "Мэдээ мэдээлэл",
+  "model": "news",
+  "position": 3,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775379036"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775379036"
+    }
+  },
+  "slug": "medee-medeelel",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "63960271f69ff82d7077b4d6"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Ил тод байдал",
+  "direct": "/page/il_tod",
+  "position": 4,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775409787"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775409787"
+    }
+  },
+  "slug": "il-tod-baydal",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "6396030ff69ff82d7077b506"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Авлигатай тэмцэх үндэсний хөтөлбөр",
+  "direct": "/page/1",
+  "parentId": "63960271f69ff82d7077b4d6",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775567672"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775567672"
+    }
+  },
+  "slug": "avligatay-temceh-undesniy-hotolbor",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a96903b7a767e6df4eea99"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "isPage": false,
+  "name": "afsasf",
+  "parentId": "63960236f69ff82d7077b4c7",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672046851691"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672046851691"
+    }
+  },
+  "slug": "afsasf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a96905b7a767e6df4eea9f"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "isPage": false,
+  "name": "xx",
+  "parentId": "63960236f69ff82d7077b4c7",
+  "position": 1,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672046853225"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672046853225"
+    }
+  },
+  "slug": "xx",
+  "__v": 0
+}]

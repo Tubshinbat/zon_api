@@ -1,0 +1,731 @@
+[{
+  "_id": {
+    "$oid": "63ab42866aba3b224046c286"
+  },
+  "status": true,
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "name": "Байгууллагын бүтэц",
+  "pageInfo": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"http://localhost:8060/uploads/1672168047683_lgmm03img-221102084412 (1).jpg\" alt=\"\" width=\"1000\" height=\"707\" /></p>",
+  "menu": [
+    {
+      "$oid": "63ab421b6aba3b224046c246"
+    }
+  ],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672168070868"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672168103873"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  }
+},{
+  "_id": {
+    "$oid": "63ab42d86aba3b224046c2d7"
+  },
+  "status": true,
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "name": "Гадаад хамтын ажиллагаа",
+  "pageInfo": "<p style=\"text-align: center;\"><strong>БАРИЛГЫН ХӨГЖЛИЙН ТӨВД ХЭРЭГЖИЖ БУЙ</strong></p>\r\n<p style=\"text-align: center;\"><strong>C</strong><strong>АНАМЖ&nbsp;БИЧИГ,&nbsp;ГЭРЭЭ</strong></p>\r\n<p style=\"text-align: center;\">&nbsp;2015.03.31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Улаанбаатар хот</p>\r\n<table style=\"font-weight: 400; margin-left: auto; margin-right: auto;\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p><strong>№</strong></p>\r\n</td>\r\n<td>\r\n<p><strong>Улс, орнуудын нэр</strong></p>\r\n</td>\r\n<td>\r\n<p><strong>Санамж бичгийг үзэглэсэн байгууллагын нэрс</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>1</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>Монголын барилгачин залуучуудын холбоо</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>2</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&ldquo;Гашуун сухайтын төмөр зам&rdquo;&nbsp;ХХК</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>3</strong></p>\r\n</td>\r\n<td>\r\n<p>Чех</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&ldquo;Пипл ин нийд&rdquo;&nbsp;ТББ</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>4</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>Авто худалдааны цогцолбор ОНӨААТҮГ</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>5</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&ldquo;Чингис Лэнд Девелопмент&rdquo; группын ерөнхийлөгч</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>6</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&ldquo;Рина Сервис&rdquo; ХК болон &ldquo;Евро СейфтиИнтернэшнл&rdquo; ХХК</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>7</strong></p>\r\n</td>\r\n<td>\r\n<p>БНХАУ</p>\r\n<p>&nbsp;</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>Манжуур хотын Ардын их хурлын байнгын хороо</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>8</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&ldquo;Гудамж&rdquo; төсөл</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>9</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>Монголын барилгын инженерүүдийн холбоо</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>10</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>Монголын газар зохион байгуулагчдын холбоо</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>11</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>Хөдөлмөр эрхлэлт үйлчилгээний төв</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>12</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>Монголын барилгачдын холбооны ерөнхийлөгч</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>13</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>Монголын Архитекторуудын Эвлэл</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>14</strong></p>\r\n</td>\r\n<td>\r\n<p>Австрали</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&ldquo;МАК&nbsp;Industrial Water Solutions&rdquo;</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>15</strong></p>\r\n</td>\r\n<td>\r\n<p>БНСУ</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>Солонгосын Нийцлэлийн лаборатори</p>\r\n<p>&ldquo;KCL&rdquo;</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>16</strong></p>\r\n</td>\r\n<td>\r\n<p>БНТУ</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&ldquo;Тhe Confederation of Businessmen and industrialists of Turkie&rdquo;</p>\r\n<p>/TUSCON/</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>17</strong></p>\r\n</td>\r\n<td>\r\n<p>Чех</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&ldquo;Каритас Чех Репаблик&rdquo;</p>\r\n<p>төсөл</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>18</strong></p>\r\n</td>\r\n<td>\r\n<p>ХБНГУ</p>\r\n</td>\r\n<td>\r\n<p>ГХБГЗЗГазар</p>\r\n<p>Германы стандарчилалын хүрээлэн /DIN/</p>\r\n<p>СХЗГазар</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>19</strong></p>\r\n</td>\r\n<td>\r\n<p>БНСУ</p>\r\n</td>\r\n<td>\r\n<p>ССХОБЗА</p>\r\n<p>Барилгын технологийн институт /KICTE/</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>20</strong></p>\r\n</td>\r\n<td>\r\n<p>Япон улс</p>\r\n</td>\r\n<td>\r\n<p>ССХОБЗА</p>\r\n<p>Барилгын хөгжлийн сан</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>21</strong></p>\r\n</td>\r\n<td>\r\n<p>БНСУ</p>\r\n</td>\r\n<td>\r\n<p>ССХОБЗА</p>\r\n<p>&ldquo;Wool&nbsp;Enjineering&rdquo;&nbsp;Co,,Ltd</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>22</strong></p>\r\n</td>\r\n<td>\r\n<p>БНСУ</p>\r\n</td>\r\n<td>\r\n<p>ССХОБЗА</p>\r\n<p>Ханянг Их сургууль</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>&nbsp;</strong></p>\r\n<p><strong>№</strong></p>\r\n</td>\r\n<td>\r\n<p><strong>&nbsp;</strong></p>\r\n<p><strong>Улс, орнуудын нэр</strong></p>\r\n</td>\r\n<td>\r\n<p>&nbsp;</p>\r\n<p><strong>Гэрээ хэлэлцээр</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>1</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>ШУТИС БИАС</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>2</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&nbsp;ОСНААУГ</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>3</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&nbsp;&ldquo;Байгууламж&rdquo; ХХК</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>4</strong></p>\r\n</td>\r\n<td>\r\n<p>ОХУ</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>Центр Нормативно-Технической Документации</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>5</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</td>\r\n<td>\r\n<p>Барилгын хөгжлийн төв</p>\r\n<p>&ldquo;Их хаадын цуваа&rdquo; ХХК</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ФИНИФ</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>6</strong></p>\r\n</td>\r\n<td>\r\n<p>Монгол</p>\r\n</td>\r\n<td>\r\n<p>ЗТБХБЯ</p>\r\n<p>ССХОБЗА</p>\r\n<p style=\"text-align: center;\">Монголын Барилгачдын Холбоо</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+  "menu": [
+    {
+      "$oid": "63ab42266aba3b224046c24c"
+    }
+  ],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672168152431"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672168152431"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab43056aba3b224046c313"
+  },
+  "status": true,
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "name": "Түүхэн хөгжил",
+  "pageInfo": "<p>Барилгын салбарын он цагийн товчоо:</p>\r\n<p><strong>1926 он:</strong>&nbsp;Ардын засгийн газрын хурлын 40 дүгээр тогтоолоор &ldquo;Барилгын хэлтэс&rdquo; байгуулж, барилга барих, барилгын материал үйлдвэрлэх, зураг төсөл зохиох ажлыг эхлүүлсэн байна.</p>\r\n<p><strong>1929 он:</strong>&nbsp;БНМАУ-ын Засгийн газрын 1929 оны 9 дүгээр сарын 06-ны өдрийн хуралдааны 18 дугаар тогтоолоор &ldquo;Барилгын инженер-техникчдийн товчоон&rdquo; байгуулсан.</p>\r\n<p><strong>1930 он:</strong>&nbsp;&ldquo;Проммонголстрой&rdquo; хэмээх хувь нийлүүлсэн барилгын байгууллагыг байгуулсан.</p>\r\n<p><strong>1936 он:</strong>&nbsp;БНМАУ-ын Сайд нарын зөвлөлийн 45 дугаар хурлын тогтоолоор Худалдаа аж үйлдвэрийн яамны дэргэд &ldquo;Барилгын техникийн хэрэг эрхлэх газар&rdquo; байгуулсан.</p>\r\n<p><strong>1937 он:</strong>&nbsp;&ldquo;Барилгын техникийн хэрэг эрхлэх газар&rdquo;-ыг БНМАУ-ын Сайд нарын зөвлөлийн 33 дугаар хурлын тогтоолоор &ldquo;Улсын барилгын трест&rdquo; болгон өөрчилсөн.</p>\r\n<p><strong>1940 он:</strong>&nbsp;Сайд нарын Зөвлөлийн 4 дүгээр тогтоолоор &ldquo;Барилгын зураг төсөв, төлөвлөгөөний газар&rdquo;-ыг байгуулжээ.</p>\r\n<p><strong>1946 он:</strong>&nbsp;&ldquo;Барилгын материал бэлтгэх газар&rdquo;-ыг байгуулсан.</p>\r\n<p><strong>1947 он:</strong>&nbsp;МАХН-ын төв хороо, БНМАУ-ын Сайд нарын зөвлөлийн 60/26 дугаар тогтоолоор &ldquo;Барилгын хэрэг эрхлэх ерөнхий газар&rdquo;-ыг байгуулсан.</p>\r\n<p><strong>1957 он:</strong>&nbsp;БНМАУ-ын Ардын Их Хурлын Тэргүүлэгчдийн 99 дүгээр тогтоолоор &ldquo;БНМАУ-ын Барилгын хэрэг эрхлэх хороо&rdquo;-г байгуулжээ.</p>\r\n<p><strong>1960 он:</strong>&nbsp;МАХН-ын төв хороо, БНМАУ-ын Сайд нарын зөвлөлийн 526/364 дүгээр тогтоолоор &ldquo;БНМАУ-ын Барилга, эдийн засгийн комисс&rdquo;-ыг байгуулжээ.</p>\r\n<p><strong>1963 он:</strong>&nbsp;Барилгын материалын үйлдвэрлэл болох тоосгоны завод, шохойн үйлдвэр, төмөрбетоны завод, аймаг дундын модны үйлдвэр, хүрмэн бетоны завод, УБ хотод анхны байшин үйлдвэрлэх комбинат, мод боловсруулах комбинатуудыг тус тус байгуулсан байна.</p>\r\n<p><strong>1972 он:</strong>&nbsp;БНМАУ-ын Сайд нарын зөвлөлийн дэргэд &ldquo;Барилга архитектурын Комисс&rdquo;-ыг байгуулав.</p>\r\n<p><strong>1981 он:</strong>&nbsp;&ldquo;Барилга архитектурын Комисс&rdquo;-ыг Барилга-архитектур, техник хяналтын улсын хороо болгон өөрчлөв.</p>\r\n<p><strong>1986 он:</strong>&nbsp;МАХН-ын төв хорооны Улс төрийн товчооны 250&nbsp; дугаар тогтоолоор БНМАУ-ын Улсын Барилгын хороог байгуулжээ.</p>\r\n<p><strong>1989 он:</strong>&nbsp;БНМАУ-ын Улсын Барилгын хороог Барилгын яам нэртэй болгон өөрчилжээ.</p>\r\n<p><strong>1990 он:</strong>&nbsp;БНМАУ-ын Засгийн газрын 13 дугаар тогтоолоор Барилга хот байгуулалтын талаар улсын нэгдсэн бодлого явуулах, барилгын салбарын норм, норматив боловсруулах ажлыг зохион байгуулж, тэдгээрийг хянаж батлах үүрэг бүхий &ldquo;Барилга, хот байгуулалтын комисс&rdquo;-ыг Засгийн газрын дэргэд байгуулжээ.</p>\r\n<p><strong>1992 он:</strong>&nbsp;Монгол Улсын Засгийн Газрын 12 дугаар тогтоолоор &ldquo;Барилга, хот байгуулалтын яам&rdquo;-ыг байгуулж, &ldquo;Барилга, хот байгуулалтын комисс&rdquo;-ыг татан буулгав.</p>\r\n<p><strong>1994 он:&nbsp;</strong>Монгол Улсын Засгийн Газрын тухай хуулинд нэмэлт өөрчлөлт оруулж &ldquo;Барилга хот байгуулалтын яам&rdquo;-ыг татан буулгаж &ldquo;Дэд бүтцийн хөгжлийн яам&rdquo;-ыг байгуулсан.</p>\r\n<p><strong>1996 он:</strong>&nbsp;Монгол Улсын Засгийн Газрын 300 дугаар тогтоолоор Засгийн газрын хэрэгжүүлэгч агентлаг &ldquo;Барилга, архитектурын газар&rdquo; байгуулагдсан. Мөн онд Нийтийн аж ахуйн үйлчилгээний яамыг татан буулгаж, Засгийн газрын хэрэгжүүлэгч агентлаг &ldquo;Нийтийн аж ахуйн үйлчилгээний газар&rdquo;-ыг байгуулсан.</p>\r\n<p><strong>2000 он:</strong>&nbsp;&ldquo;Барилга, архитектурын газар&rdquo;, &ldquo;Нийтийн аж ахуйн үйлчилгээний газар&rdquo;-ыг тус тус татан буулгаж Монгол Улсын Засгийн Газрын 139 дүгээр тогтоолоор Засгийн газрын хэрэгжүүлэгч агентлаг &ldquo;Барилга, хот байгуулалт, нийтийн аж ахуйн газар&rdquo; нэртэйгээр байгуулагдсан.</p>\r\n<p><strong>2004 он:</strong>&nbsp;Засгийн газрын тухай хуулиар &ldquo;Барилга, хот байгуулалтын яам&rdquo;-ыг байгуулсан. Монгол Улсын Засгийн Газрын 201 дүгээр тогтоолоор &ldquo;Барилга, хот байгуулалт, нийтийн аж ахуйн газар&rdquo;-ын суурин дээр &ldquo;Барилга, нийтийн аж ахуйн хөгжлийг дэмжих төв&rdquo;-ийг байгуулсан байна.</p>\r\n<p><strong>2006 он:</strong>&nbsp;Засгийн газрын 2006 оны 37 оны тогтоолоор &ldquo;Барилга, нийтийн аж ахуйн хөгжлийг дэмжих төв&rdquo;, &ldquo;Хот байгуулалт&rdquo; УҮГ, Дэд бүтцийн ажилтны мэргэжил дээшлүүлэх институтийг тус тус татан буулгаж тэдгээрийн чиг үүргийг хэрэгжүүлэх &ldquo;Барилга, хот байгуулалт, нийтийн аж ахуйн үндэсний төв&rdquo;-ийг байгуулсан.</p>\r\n<p><strong>2007 он:</strong>&nbsp;Барилга, хот байгуулалтын сайдын 2007 оны&nbsp;138 дугаар тушаалаар Барилга захиалагчийн алба байгуулагдав.</p>\r\n<p><strong>2009 он</strong><strong>:</strong>&nbsp;Засгийн газрын 2008 оны 64 дүгээр тогтоол, Зам, тээвэр, барилга, хот байгуулалтын сайдын 2009 оны 116 дугаар тушаалаар&nbsp;Барилга, хот байгуулалт, нийтийн аж ахуйн үндсэн чиг үүргийгЗасгийн газрын хэрэгжүүлэгч агентлаг Газрын харилцаа, геодези зураг зүйн газартай нэгтгэн Газрын харилцаа, барилга, геодези зураг зүйн газар болгон&nbsp;өөрчлөн&nbsp;зохион&nbsp;байгуулагдсан.</p>\r\n<p>Тус&nbsp;Газрын харилцаа, барилга, геодези зураг зүйн газрын дэргэд&nbsp;Монгол Улсын Засгийн газрын 2009 оны 23 дугаар тогтоолын 2 дахь заалтыг үндэслэн&nbsp;Сургалт, судалгаа, хөрөнгө оруулалт, барилга захиалагчийн албыг&nbsp;байгуулсан.</p>\r\n<p><strong>2012 он:</strong>&nbsp;Монгол Улсын Засгийн газрын 2012 оны 6 дугаар тогтоолоор Газрын харилцаа, барилга, геодези, зураг зүйн газрыг татан буулгаж, тухайн байгууллагын хэрэгжүүлж байсан барилга, нийтийн аж ахуй, сургалт, судалгаа, хөрөнгө оруулалт, барилга захиалагчийн&nbsp;чиг үүргийг хэрэгжүүлэх үүрэг бүхий&nbsp;<strong>&ldquo;Барилгын хөгжлийн төв&rdquo;</strong>&nbsp;ТӨҮГ-ыг Засгийн&nbsp; газрын 2012 оны 47 дугаар тогтоолоор байгуулсан.</p>\r\n<p><strong>2014 он:</strong>&nbsp;Монгол Улсын Засгийн газрын 2014 оны 93 дугаар тогтоолоор Боловсрол, шинжлэх ухааны яам, Эрүүл мэндийн яам, Соёл, спорт, аялал жуулчлалын яамны дэргэдэх Барилга захиалагчийн албадыг тус төвд нэгтгэсэн.</p>\r\n<p>&nbsp;<strong>2015 он:</strong>&nbsp;Монгол Улсын Засгийн газрын 2015 оны 55 дугаар тогтоолоор &ldquo;Зураг төсөл, эрдэм шинжилгээний институт&rdquo; улсын төсөвт үйлдвэрийн газрыг тус төвд нэгтгэсэн.</p>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align: center;\"><strong>ЗАХИРГААНЫ ХЭЛТЭС</strong></p>",
+  "menu": [
+    {
+      "$oid": "63ab42386aba3b224046c258"
+    }
+  ],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672168197709"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672168197709"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab43476aba3b224046c336"
+  },
+  "status": true,
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": true,
+  "name": "“Барилгын төсөв зохиох дүрэм” /бнбд 91-95-12/ -д “нийгмийн даатгал, эрүүл мэндийн даатгалын байгууллага хариуцан төлөх шимтгэл”-ийн хувь хэмжээ өөрчлөгдсөн тухай",
+  "pageInfo": "<p style=\"text-align: center;\"><img src=\"http://localhost:8060/uploads/1672168250117_1bv77vUntitled -11 (1).jpg\" alt=\"\" width=\"843\" height=\"1168\" /></p>",
+  "menu": [
+    {
+      "$oid": "63ab42446aba3b224046c25e"
+    }
+  ],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672168263835"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672168263835"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab437b6aba3b224046c359"
+  },
+  "status": true,
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "name": "“Барилгын төсөв зохиох дүрэм” /бнбд 81-95-12/-д нэмэлт өөрчлөлт оруулах тухай бхбс-ын 2018.01.16-ны 09 дүгээр тушаал",
+  "pageInfo": "<p style=\"text-align: center;\"><iframe class=\"cdc-doc-iframe\" style=\"width: 770px; height: 385px;\" src=\"https://docs.google.com/a/labnol.org/viewer?url=http://103.48.116.227/resources/images/k7892inorm tushaal.pdf?pid=explorer&amp;efh=false&amp;a=v&amp;chrome=false&amp;embedded=true\" width=\"770\" height=\"385\" data-ng-src=\"https://docs.google.com/a/labnol.org/viewer?url=http://103.48.116.227/resources/images/k7892inorm tushaal.pdf?pid=explorer&amp;efh=false&amp;a=v&amp;chrome=false&amp;embedded=true\"></iframe></p>",
+  "menu": [
+    {
+      "$oid": "63ab42446aba3b224046c25e"
+    }
+  ],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672168315781"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672168315781"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab43c36aba3b224046c515"
+  },
+  "status": true,
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "name": "Барилга, хот байгуулалтын сайдын 37 дугаар тушаал /зураг төсөл, төсөвт магадлал хийх ажлын эрх олгох тухай/",
+  "pageInfo": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"http://localhost:8060/uploads/1672168376595_cvpjmqomw4y1y1 (1).jpg\" alt=\"\" width=\"800\" height=\"1109\" /></p>",
+  "menu": [
+    {
+      "$oid": "63ab42446aba3b224046c25e"
+    }
+  ],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672168387152"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672168387152"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab43f06aba3b224046c538"
+  },
+  "status": true,
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "name": "Монгол улсын засгийн газрын 93 дугаар тогтоол /барилга захиалагчийн албаны талаар авах арга хэмжээний тухай/",
+  "pageInfo": "<p style=\"text-align: center;\">Монгол улсын засгийн газрын 93 дугаар тогтоол /барилга захиалагчийн албаны талаар авах арга хэмжээний тухай/</p>",
+  "menu": [
+    {
+      "$oid": "63ab42446aba3b224046c25e"
+    }
+  ],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [
+    "1672168417274_fbbfao93 (1).jpg"
+  ],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672168432166"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672168432166"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab44596aba3b224046c634"
+  },
+  "status": true,
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "name": "Барилгын салбарын инженер техникийн ажилтны сургалт",
+  "pageInfo": "<p><img src=\"http://localhost:8060/uploads/1672168519058_5vvnb9BXBSaidiin-2012.11.06-44_Page_01 (1).jpg\" alt=\"\" width=\"1000\" height=\"1370\" /></p>",
+  "menu": [
+    {
+      "$oid": "63ab42446aba3b224046c25e"
+    }
+  ],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672168537706"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672168537706"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63abbdd5c194e63c2ce3158c"
+  },
+  "status": true,
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "modalActive": true,
+  "choiseModal": "services",
+  "modal": "639790895060420c7a87dcd9",
+  "name": "Аж ахуйн нэгжүүдээс ”зураг төсөлд магадлал хийлгэх” хүсэлт хүлээн авах албан бичгийн загвар",
+  "pageInfo": "<p style=\"text-align: right;\">Албан бичгийн загвар</p>\r\n<p style=\"text-align: right;\">БАРИЛГЫН ХӨГЖЛИЙН ТӨВ-Д</p>\r\n<p style=\"font-weight: 400; text-align: center;\">Магадлал хийлгэх тухай:</p>\r\n<table style=\"font-weight: 400; margin-left: auto; margin-right: auto;\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p>Барилга байгууламжийн &nbsp;&nbsp;&nbsp;&nbsp;нэр,зориулалт:</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p>Барилга байгууламжийн байршил/хот,аймаг/:</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Дүүрэг,хороо,сум</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p>Захиалагч хөрөнгө оруулагчийн нэр:</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p>Санхүүжилтийн эх үүсвэр:</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p>Харилцах утас:</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"font-weight: 400;\">&nbsp;</p>\r\n<p style=\"font-weight: 400; text-align: center;\">ЗАХИРАЛ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /</p>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672199637438"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672199637438"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63abc445e81a135970e72cb5"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "modalActive": true,
+  "choiseModal": "services",
+  "modal": "639794825060420c7a87ea5f",
+  "name": "Барилгын салбарын мэргэшлийн зэрэгтэй мэргэжилтүүдийн мэдээлэл",
+  "pageInfo": "<p>Барилгын салбарын мэргэшлийн зэрэгтэй мэргэжилтүүдийн мэдээлэл</p>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672201285423"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672201285423"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae73f681c78810e014caff"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": false,
+  "modalActive": true,
+  "choiseModal": "services",
+  "modal": "639794825060420c7a87ea5f",
+  "name": "Сургалтын төлөвлөгөө, зар мэдээ",
+  "pageInfo": "<p style=\"text-align: center;\">Сургалтын төлөвлөгөө, зар мэдээ</p>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672377334011"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672377334011"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae74a681c78810e014cbe6"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": true,
+  "modalActive": false,
+  "choiseModal": "",
+  "modal": "undefined",
+  "name": "“Газар_хөдлөлтийн_бүс_нутагт_барилга_төлөвлөх” /бнбд22-01-21/ барилгын норм ба дүрмийн танилцуулга, хэрэглээ сэдэвт _хэлэлцүүлэг",
+  "pageInfo": "<div class=\"col-xs-12 ng-binding\">\r\n<p style=\"text-align: justify;\">&ldquo;Газар хөдлөлтийн бүс нутагт барилга төлөвлөх&rdquo; /БНбД 22-01-21/ барилгын норм ба дүрэм 2021 онд&nbsp;БХБ-ын сайд&nbsp;шинэчлэн баталсан бөгөөд тус&nbsp;нормыг&nbsp;2021.12.01 өдрөөс мөрдөж эхэлсэн билээ.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Энэхүү барилгын норм ба дүрэм шинэчлэгдэн батлагдсантай холбогдуулан&nbsp;Барилгын хөгжлийн төв нь Монголын Барилгын Инженерүүдийн Холбоотой&nbsp;хамтран хэлэлцүүлгийг 2022 оны 4-р сарын 1-ний өдрийн 14 цагаас&nbsp;Барилгын хөгжлийн төвийн 5 давхарт зохион байгуулна.</p>\r\n<p>Эрхэм инженерүүд Та бүхэн өргөнөөр оролцохыг урьж байна.</p>\r\n</div>\r\n<div class=\"fb-share-button\" style=\"text-align: justify;\" data-href=\"https://localhost:8080/#/home/contentLast/979\" data-layout=\"button_count\">&nbsp;</div>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "page": {
+    "$oid": "63ae73f681c78810e014caff"
+  },
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672377510482"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672377510482"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae812e8e3f2ff3f229535e"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": true,
+  "modalActive": false,
+  "choiseModal": "null",
+  "modal": "undefined",
+  "name": "Салбарын мэргэжилтний чадавхижуулах багц цаг тооцох сургалт",
+  "pageInfo": "<div class=\"col-xs-12 ng-binding\">\r\n<p><strong>Сургалтын нэр:</strong>Төсөвчний анхан шатны сургалт</p>\r\n<p><strong>Эхлэх хугацаа:</strong>&nbsp;2018&nbsp;оны 01 дүгээр сарын 31</p>\r\n<p><strong>Сургалтын төлбөр:</strong>&nbsp;190 000 төг</p>\r\n<p><strong>Бүртгэл:</strong>&nbsp;Барилгын хөгжлийн төвийн Нэг цэгийн үйлчилгээний нэгдүгээр цонхонд материалаа бүрдүүлэн ирж бүртгүүлнэ үү.</p>\r\n<p><strong>Бүрдүүлэх материал:</strong></p>\r\n<p>1. Анкет: /Батлагдсан маягтаар бөглөнө. Маягтыг&nbsp;<a href=\"http://barilga.gov.mn/\">http://barilga.gov.mn</a><u>&nbsp;</u>хаягаар орж</p>\r\n<p>2.&nbsp;Дээд боловсролын үнэмлэх, дипломын хуулбар</p>\r\n<p>3.&nbsp;Ажил байдлын тодорхойлолт:</p>\r\n<p>4. 3х4 хэмжээтэй 1% зураг</p>\r\n<p>5. Сургалтын төлбөрийн баримт:&nbsp; /Сургалтын төлбөрийг Голомт банкны&nbsp;<strong>1175107788</strong>&nbsp;дансаар төлнө./&nbsp;</p>\r\n</div>\r\n<div class=\"fb-share-button\" data-href=\"https://localhost:8080/#/home/contentLast/226\" data-layout=\"button_count\">&nbsp;</div>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "page": {
+    "$oid": "63ae73f681c78810e014caff"
+  },
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672380718619"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672382624358"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  }
+},{
+  "_id": {
+    "$oid": "63aebe67a556ab64f28a3e89"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": true,
+  "modalActive": false,
+  "choiseModal": "null",
+  "modal": "undefined",
+  "name": "“Бохир усны цэвэрлэх байгууламжийн ашиглалт, шинэчлэлт”-ийн сургалт зохион байгуулна",
+  "pageInfo": "<p style=\"text-align: justify;\">ОХУ-ын Новосибирск хотын &ldquo;Горводканал&rdquo; буюу Ус сувгийн байгууллага болон &ldquo;Монголын ус сувгийн ассоциаци&rdquo;-тай хамтран аймаг, нийслэлийн нийтийн аж ахуйн инженер техникийн ажилчдад &ldquo;Бохир усны цэвэрлэх байгууламжийн ашиглалт, шинэчлэлт&rdquo;-ийн сэдвийн хүрээнд&nbsp;2018&nbsp;оны 5 дугаар сарын 15-17 өдрүүдэд&nbsp;сургалт семинарыг зохион байгуулна. Сургалтын зардал 1 хүн 150'000 төгрөг. Сургалтын төлбөрийг Голомт банкны 1175107788 дансаар төлнө. Дараах утсаар холбогдон бүртгүүлнэ үү.&nbsp;<strong>320572, 99093488</strong></p>\r\n<p style=\"text-align: center;\"><strong>&nbsp;&ldquo;БОХИР УСНЫ ЦЭВЭРЛЭХ БАЙГУУЛАМЖИЙН АШИГЛАЛТ, ШИНЭЧЛЭЛТ&rdquo;-ИЙН СУРГАЛТЫН СЭДЭВ</strong></p>\r\n<ol>\r\n<li>Новосибирск хотын цэвэрлэх байгууламжийн ашиглалт</li>\r\n<li>Механик цэвэрлэгээ, биологийн цэвэрлэгээ, гүн цэвэрлэгээ, үнэргүйжүүлэх байгууламжуудын ашиглалт.</li>\r\n<li>Лаг боловсруулах болон бохир ус цэвэрлэх орчин үеийн технологи.</li>\r\n<li>Лагийг боловсруулах давуу болон дутагдалтай талууд.</li>\r\n<li>Цэвэрлэх байгууламжийн үйл ажиллагаанд гарч болох эвдрэлүүд тэдгээрийг арилгах арга замууд.</li>\r\n<li>Механик цэвэрлэгээ, биологийн цэвэрлэгээ, гүн цэвэрлэгээ, үнэргүйжүүлэх байгууламжуудын үйл ажиллагааг сэргээх арга замууд.</li>\r\n<li>Цэвэрлэх байгууламжийн үйл ажиллагааны одоогийн нөхцөл байдлыг тодорхойлох практик аргууд тэдгээрийг &nbsp;шинэчлэх боломжууд</li>\r\n<li>Цэвэрлэх байгууламжаар цэвэрлэгдээд гарч буй усанд тавигдах шаардлага, эрүүл ахуйн норм нормативын шаардлага</li>\r\n<li>Новосибирск хотын цэвэрлэгэх байгууламжийн &nbsp;үйл ажиллагааны явцыг харуулсан видео</li>\r\n<li>Хэлэлцүүлэг, практикт тохиолдож буй&nbsp; асуудлуудаар харилцан туршлага солилцох гэх мэт.</li>\r\n</ol>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [
+    "1672396390160_4knv67slide hemjee (1).jpg"
+  ],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672396391828"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672396411079"
+    }
+  },
+  "__v": 0,
+  "page": {
+    "$oid": "63ae73f681c78810e014caff"
+  },
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  }
+},{
+  "_id": {
+    "$oid": "63aec009a556ab64f28a40ed"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": true,
+  "modalActive": false,
+  "choiseModal": "null",
+  "modal": "undefined",
+  "name": "Барилгын салбарын хабэа-н ажилтнуудыг урьж байна",
+  "pageInfo": "<p>&ldquo;<strong>Асбест агуулсан бүтээгдэхүүний хэрэглээ, түүний хор нөлөөллөөс сэргийлэх нь</strong>&rdquo; сэдэвт семинар 2018 оны 06 сарын 28-ний өдөр &ldquo;Хөдөлмөрийн аюулгүй байдал, эрүүл мэндийн төв&rdquo;-д зохион байгуулагдана.</p>\r\n<p>Семинарт хамрагдах ХАБЭА-н ажилтнууд 11-329789 утсанд 06 сарын 25-ны дотор бүртгүүлнэ үү.</p>\r\n<ul>\r\n<li>Сургалт үнэ төлбөргүй.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p><iframe class=\"cdc-doc-iframe\" style=\"width: 668px; height: 334px;\" src=\"https://docs.google.com/a/labnol.org/viewer?url=http://103.48.116.227/resources/images/ckkgdrdocument1.pdf?pid=explorer&amp;efh=false&amp;a=v&amp;chrome=false&amp;embedded=true\" width=\"668\" height=\"334\" data-ng-src=\"https://docs.google.com/a/labnol.org/viewer?url=http://103.48.116.227/resources/images/ckkgdrdocument1.pdf?pid=explorer&amp;efh=false&amp;a=v&amp;chrome=false&amp;embedded=true\"></iframe></p>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "page": {
+    "$oid": "63ae73f681c78810e014caff"
+  },
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672396809671"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672396809672"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b658f86adcb2e34b04ca3c"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": false,
+  "modalActive": true,
+  "choiseModal": "costs",
+  "modal": "undefined",
+  "name": "Барилгад хэрэглэгдэх гол нэр төрлийн барилгын материалын үнийн  2022 оны мэдээлэл",
+  "pageInfo": "<p style=\"text-align: center;\">Барилгад хэрэглэгдэх гол нэр төрлийн барилгын материалын үнийн &nbsp;2022 оны мэдээлэл</p>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672894712583"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672895886332"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  }
+},{
+  "_id": {
+    "$oid": "63b65dc1bd20fb348e29fcaf"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": true,
+  "modalActive": false,
+  "choiseModal": "null",
+  "modal": "undefined",
+  "name": "Барилгад хэрэглэгдэх гол нэр төрлийн барилгын материалын үнийн мэдээлэл 2022 оны 11-р сарын 08-ны байдлаар",
+  "pageInfo": "<p style=\"text-align: center;\"><iframe class=\"\" style=\"width: 743px; height: 2031px;\" src=\"https://docs.google.com/a/labnol.org/viewer?url=http://103.48.116.227/resources/images/e7j2k7Барилгын мэдээлэл эмхэтгэл 11_08 (1).pdf?pid=explorer&amp;efh=false&amp;a=v&amp;chrome=false&amp;embedded=true\" width=\"743\" height=\"2031\" data-ng-src=\"https://docs.google.com/a/labnol.org/viewer?url=http://103.48.116.227/resources/images/e7j2k7Барилгын мэдээлэл эмхэтгэл 11_08 (1).pdf?pid=explorer&amp;efh=false&amp;a=v&amp;chrome=false&amp;embedded=true\"></iframe></p>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "page": {
+    "$oid": "63b658f86adcb2e34b04ca3c"
+  },
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672895937773"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672895937773"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b72e91e570187b28d638dd"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": false,
+  "modalActive": true,
+  "choiseModal": "services",
+  "modal": "639790895060420c7a87dcd9",
+  "name": "Аж ахуйн нэгжүүдээс ”Зураг төсөлд магадлал хийлгэх” хүсэлт хүлээн авах албан бичгийн загвар",
+  "pageInfo": "<p style=\"text-align: right;\">Албан бичгийн загвар</p>\r\n<p style=\"text-align: right;\">БАРИЛГЫН ХӨГЖЛИЙН ТӨВ-Д</p>\r\n<p style=\"font-weight: 400; text-align: left;\">Магадлал хийлгэх тухай:</p>\r\n<table style=\"font-weight: 400; width: 79.2932%; margin-left: auto; margin-right: auto;\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 71.0816%;\">\r\n<p>Барилга байгууламжийн &nbsp;&nbsp;&nbsp;&nbsp;нэр,зориулалт:</p>\r\n</td>\r\n<td style=\"width: 28.9207%;\">\r\n<p>&nbsp;</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 71.0816%;\">\r\n<p>Барилга байгууламжийн байршил/хот,аймаг/:</p>\r\n</td>\r\n<td style=\"width: 28.9207%;\">\r\n<p>&nbsp;</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 71.0816%;\">\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Дүүрэг,хороо,сум</p>\r\n</td>\r\n<td style=\"width: 28.9207%;\">\r\n<p>&nbsp;</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 71.0816%;\">\r\n<p>Захиалагч хөрөнгө оруулагчийн нэр:</p>\r\n</td>\r\n<td style=\"width: 28.9207%;\">\r\n<p>&nbsp;</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 71.0816%;\">\r\n<p>Санхүүжилтийн эх үүсвэр:</p>\r\n</td>\r\n<td style=\"width: 28.9207%;\">\r\n<p>&nbsp;</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 71.0816%;\">\r\n<p>Харилцах утас:</p>\r\n</td>\r\n<td style=\"width: 28.9207%;\">\r\n<p>&nbsp;</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\">ЗАХИРАЛ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /</p>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672949393517"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672949393517"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bb8294e9130de4f5a3c3e7"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": true,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": false,
+  "modalActive": true,
+  "choiseModal": "platforms",
+  "modal": "63976f4c5060420c7a87912e",
+  "name": "tuvshinbat",
+  "pageInfo": "<p>tuvshinbattuvshinbattuvshinbat</p>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [
+    {
+      "$oid": "637e85eb0fa3a7650b745132"
+    }
+  ],
+  "pictures": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673233044368"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673236047919"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  }
+},{
+  "_id": {
+    "$oid": "63bb83d4e9130de4f5a3c720"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": true,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": true,
+  "modalActive": false,
+  "choiseModal": "null",
+  "modal": "undefined",
+  "name": "test",
+  "pageInfo": "<p>rete</p>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [
+    {
+      "$oid": "637e85eb0fa3a7650b745132"
+    }
+  ],
+  "pictures": [],
+  "page": {
+    "$oid": "63bb8294e9130de4f5a3c3e7"
+  },
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673233364824"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673233364824"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bb8e836992b39884c2c0c8"
+  },
+  "status": true,
+  "list": "grid",
+  "newsActive": false,
+  "listActive": false,
+  "pageActive": false,
+  "pageParentActive": true,
+  "modalActive": false,
+  "choiseModal": "null",
+  "modal": "undefined",
+  "name": "xxxxxxxxxxx",
+  "pageInfo": "<p>xxxxxxxxx</p>",
+  "menu": [],
+  "footerMenu": [],
+  "categories": [],
+  "pictures": [],
+  "page": {
+    "$oid": "63bb8294e9130de4f5a3c3e7"
+  },
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1673236099052"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1673236099052"
+    }
+  },
+  "__v": 0
+}]

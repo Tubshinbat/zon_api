@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6395f2caf69ff82d7077b16c"
+  },
+  "status": true,
+  "type": "photo",
+  "name": "Эхний баннер",
+  "details": "№",
+  "picture": "1670771400651_banner.jpg",
+  "link": "undefined",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670771402348"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670771402348"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395f5dcf69ff82d7077b20e"
+  },
+  "status": true,
+  "type": "photo",
+  "name": "tre",
+  "details": "et",
+  "picture": "1670772962122_15540441_1408313459181579_933417800_o copy.jpg",
+  "link": "undefined",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670772188827"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670772963389"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "video": ""
+},{
+  "_id": {
+    "$oid": "63b3066c85305bdc6f69637f"
+  },
+  "status": true,
+  "type": "video",
+  "name": "video",
+  "details": "vide",
+  "video": "1672676971460_bg.mp4",
+  "link": "undefined",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672676972595"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672676972595"
+    }
+  },
+  "__v": 0
+}]

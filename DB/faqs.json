@@ -1,0 +1,142 @@
+[{
+  "_id": {
+    "$oid": "63b72f52e570187b28d64ea0"
+  },
+  "status": true,
+  "name": "Зарга мэдүүлсэн хүсэлт",
+  "question": "darkhanduulga xxk manai kompanitai zarga uusgeed 5 jil bolj baina. doorxi 3 asuudllig sudlaj uzexiig xvsej baina.uund 1-rt darkhanduulga xxk 6 davxar oron suucnii suuriin ajliig buruu xiisen 2-rt barilgiin xegjliin tev 2015-05-06 nd 416/1015 gesen magadlal ene barilga deer xiisen baigaa 3-rt Mergejliin xyanaltiin -2 shvvxiin shiidver guicetgex gazriin -1 dvgneltvvd manai taliin zev gej garsan baigaa men 2016 ond BXT-iin arx tumenelzii dargiin xamt gazar deer ni irej uzsen bolno. ug barilgiin gazar shoroo-100%, suuriin ajil-100% zooriin xaniin ajil -60% tus tus xiigdsen. todoruulax zuil garval 99399745 erdenebayar.D zalgaarai darkhandesign LLC\r\n\r\n 2018-02-01 | Доржийн Эрдэнэбаяр |",
+  "answer": "...",
+  "tags": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672949586450"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672949611297"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  }
+},{
+  "_id": {
+    "$oid": "63b72fe2e570187b28d65309"
+  },
+  "status": true,
+  "name": "Сайтын шинчлэл",
+  "question": "Сайтад шинэчилэлт хийгдсэн нь сайн байна баярлалаа, мөн яаралтай холбоо барих үед хүдрэлтэй байдаг зүйл шийдвэрлэгдсэнд баярлаж байна. Та бүхэнд ажлын амжилт хүсье\r\n\r\n 2018-02-01 | Ч.Наран |",
+  "answer": "Баярлалаа",
+  "tags": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672949730807"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672949730807"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b73013e570187b28d6537b"
+  },
+  "status": true,
+  "name": "Тусгай зөвшөөрөлтөй ААНэгжүүдийн бүртгэлийн дугааруудыг харах хүсэлт",
+  "question": "Тусгай зөвшөөрөлтөй ААНэгжүүдийн улсын бүртэгэлийн дугаарыг нь харж болохоор болгоод өгч болох болов уу.",
+  "answer": "...",
+  "tags": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672949779183"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672949779183"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7304de570187b28d65424"
+  },
+  "status": true,
+  "name": "Нууц үг сэргээх хүсэлт",
+  "question": "Durvulj /ONUVG/ rd-2016966 nuuts ugee sergeeh huseltei bn 86430212",
+  "answer": "Та манай лавлах дугаартай холбогдоно уу 11-320338, 11-320734",
+  "tags": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672949837095"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672949837095"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7306ae570187b28d65494"
+  },
+  "status": true,
+  "name": "Хүсэлт",
+  "question": "Тусгай зөвшөөрөлтэй компанийн нэрээр хайж тухайн компанийн мэдээлэл, хаягийг хардаг болох",
+  "answer": "...",
+  "tags": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672949866490"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672949866490"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b73084e570187b28d654d5"
+  },
+  "status": true,
+  "name": "Мэдээлэлийн санд Шинээр яаж бүтгүүлэх вэ.",
+  "question": "Мэдээлэлийн санд Шинээр яаж бүтгүүлэх вэ.",
+  "answer": "...",
+  "tags": [],
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672949892729"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672949892729"
+    }
+  },
+  "__v": 0
+}]

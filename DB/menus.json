@@ -1,0 +1,277 @@
+[{
+  "_id": {
+    "$oid": "6396022af69ff82d7077b4c2"
+  },
+  "status": true,
+  "isDirect": true,
+  "isModel": false,
+  "name": "Нүүр",
+  "direct": "/",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775338098"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775338098"
+    }
+  },
+  "slug": "nuur",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "63960236f69ff82d7077b4c7"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Бидний тухай",
+  "direct": "/page/about",
+  "position": 1,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775350989"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775350989"
+    }
+  },
+  "slug": "bidniy-tuhay",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "63960245f69ff82d7077b4cc"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "name": "Үйл ажиллагаа",
+  "model": "services",
+  "position": 2,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775365561"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775365561"
+    }
+  },
+  "slug": "uyl-azhillagaa",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "63960253f69ff82d7077b4d1"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "name": "Мэдээ мэдээлэл",
+  "model": "news",
+  "position": 3,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775379036"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775379036"
+    }
+  },
+  "slug": "medee-medeelel",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "63960271f69ff82d7077b4d6"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Ил тод байдал",
+  "direct": "/page/il_tod",
+  "position": 4,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775409787"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775409787"
+    }
+  },
+  "slug": "il-tod-baydal",
+  "__v": 0,
+  "parentId": null
+},{
+  "_id": {
+    "$oid": "6396030ff69ff82d7077b506"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Авлигатай тэмцэх үндэсний хөтөлбөр",
+  "direct": "/page/1",
+  "parentId": "63960271f69ff82d7077b4d6",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670775567672"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670775567672"
+    }
+  },
+  "slug": "avligatay-temceh-undesniy-hotolbor",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9e7b7aa6fd8943c32e219"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "isPage": false,
+  "name": "Түгээмэл асуулт ",
+  "model": "faq",
+  "position": 5,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672079287301"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672079287301"
+    }
+  },
+  "slug": "tugeemel-asuult",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab421b6aba3b224046c246"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "isPage": false,
+  "name": "Байгууллагын бүтэц",
+  "parentId": "63960236f69ff82d7077b4c7",
+  "position": 0,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672167963143"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672167963143"
+    }
+  },
+  "slug": "bayguullagyn-butec",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab42266aba3b224046c24c"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "isPage": false,
+  "name": "Гадаад хамтын ажиллагаа",
+  "parentId": "63960236f69ff82d7077b4c7",
+  "position": 1,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672167974553"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672167974553"
+    }
+  },
+  "slug": "gadaad-hamtyn-azhillagaa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab422f6aba3b224046c252"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "isPage": false,
+  "name": "Захирлын мэндчилгээ",
+  "parentId": "63960236f69ff82d7077b4c7",
+  "position": 2,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672167983462"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672167983462"
+    }
+  },
+  "slug": "zahirlyn-mendchilgee",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab42386aba3b224046c258"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "isPage": false,
+  "name": "Түүхэн хөгжил",
+  "parentId": "63960236f69ff82d7077b4c7",
+  "position": 3,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672167992773"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672167992773"
+    }
+  },
+  "slug": "tuuhen-hogzhil",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab42446aba3b224046c25e"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "isPage": false,
+  "name": "Эрх зөвшөөрөл",
+  "parentId": "63960236f69ff82d7077b4c7",
+  "position": 4,
+  "createAt": {
+    "$date": {
+      "$numberLong": "1672168004234"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1672168004234"
+    }
+  },
+  "slug": "erh-zovshoorol",
+  "__v": 0
+}]

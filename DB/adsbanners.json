@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "639771485060420c7a879402"
+  },
+  "status": true,
+  "type": "home",
+  "picture": "1670869280025_ads-1.png",
+  "bigPicture": "1670869317632_ads-2.png",
+  "link": "https://www.instagram.com/jet_englishcourse/",
+  "createUser": {
+    "$oid": "635a57ece393ed7df65b1b20"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1670869320031"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1670869320031"
+    }
+  },
+  "__v": 0
+}]
