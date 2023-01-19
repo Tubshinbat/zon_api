@@ -7,10 +7,12 @@ const MemberSchema = new mongoose.Schema({
     default: true,
   },
 
-  type: {
-    type: mongoose.Schema.ObjectId,
-    ref: "MemberType",
-  },
+  type: [
+    {
+      type: mongoose.Schema.ObjectId,
+      ref: "memberType",
+    },
+  ],
 
   country: {
     type: String,

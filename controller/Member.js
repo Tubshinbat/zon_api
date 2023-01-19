@@ -10,6 +10,31 @@ const { valueRequired } = require("../lib/check");
 
 exports.createMember = asyncHandler(async (req, res, next) => {
   req.body.createUser = req.userId;
+
+  if (!valueRequired(req.body.status)) {
+    delete req.body.status;
+  }
+
+  if (!valueRequired(req.body.country)) {
+    delete req.body.country;
+  }
+
+  if (!valueRequired(req.body.customerCount)) {
+    delete req.body.customerCount;
+  }
+
+  if (!valueRequired(req.body.rate)) {
+    delete req.body.rate;
+  }
+
+  if (!valueRequired(req.body.belong)) {
+    delete req.body.belong;
+  }
+
+  if (!valueRequired(req.body.phoneNumber)) {
+    delete req.body.phoneNumber;
+  }
+
   const member = await Member.create(req.body);
 
   res.status(200).json({
@@ -54,11 +79,11 @@ exports.getMembers = asyncHandler(async (req, res, next) => {
   }
 
   if (valueRequired(type)) {
-    query.find({ type: { $regex: ".*" + type + ".*", $options: "i" } });
+    query.where("type").in(type);
   }
 
   if (valueRequired(name))
-    query.find({ name: { $regex: ".*" + name + ".*", $options: "i" } });
+    query.find({ firstName: { $regex: ".*" + name + ".*", $options: "i" } });
 
   if (valueRequired(createUser)) {
     const userData = await useSearch(createUser);
@@ -102,13 +127,6 @@ exports.getMembers = asyncHandler(async (req, res, next) => {
     }
   }
 
-  if (valueRequired(categories)) {
-    const catIds = await MemberType(categories);
-
-    if (catIds.length > 0) {
-      query.where("type").in(catIds);
-    }
-  }
   if (valueRequired(status)) query.where("status").equals(status);
 
   query.populate("type");
@@ -229,7 +247,7 @@ exports.getSingleMember = asyncHandler(async (req, res, next) => {
 
   res.status(200).json({
     success: true,
-    data: Member,
+    data: member,
   });
 });
 
