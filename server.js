@@ -35,7 +35,12 @@ const app = express();
 connectDB();
 
 // Манай рест апиг дуудах эрхтэй сайтуудын жагсаалт :
-var whitelist = ["http://localhost:3000", "http://localhost:3001"];
+var whitelist = [
+  "https://beta.metaldoor.mn",
+  "https://www.beta.metaldoor.mn",
+  "https://adminbeta.metaldoor.mn",
+  "https://www.adminbeta.metaldoor.mn",
+];
 
 // Өөр домэйн дээр байрлах клиент вэб аппуудаас шаардах шаардлагуудыг энд тодорхойлно
 var corsOptions = {
